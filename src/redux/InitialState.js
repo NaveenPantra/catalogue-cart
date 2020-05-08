@@ -140,10 +140,6 @@ const ITEMS_LIST = {
         veg: true,
     },
 };
-const CART_ITEMS_LIST = {
-    'xgos9RlLogi9CGYswmGw9': {
-        itemQty: 1,
-    },
-};
+const CART_ITEMS_LIST = {};
 
 export {ITEMS_LIST, CART_ITEMS_LIST};
